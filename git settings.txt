@@ -1,0 +1,5 @@
+git init
+git add -A
+git commit -m "commit message"  
+git remote add origin https://github.com/opensails/MERN_Social_Media.git
+git push -u origin master
