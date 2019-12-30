@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://austanrob:kummel91@devconnector-tjqoe.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://austanrob:kummel91@devconnector-tjqoe.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrecttoken"
 }
